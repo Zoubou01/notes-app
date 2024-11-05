@@ -131,3 +131,13 @@ code {
   background-color: rgb(var(--mui-palette-info-mainChannel) / 0.08);
   border: 0;
 }
+
+body {
+  height: 100svh;
+  overflow: hidden;
+}
+
+html {
+  height: 100svh;
+  overflow: hidden;
+}
